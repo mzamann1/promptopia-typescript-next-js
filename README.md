@@ -44,10 +44,6 @@ Embark on your web development adventure with PromptOptia today, and let your cr
 ---
 
 
-
-Feel free to customize this description to match your project's unique features and goals. Good luck with your project, and may it shine in the world of web development!
-
-
 ## Badges
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
